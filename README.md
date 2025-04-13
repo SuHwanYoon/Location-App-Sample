@@ -22,15 +22,15 @@
 
 ### 3. Location Permission denied when location access setting ask every time
 <div style="display: inline-block;">
-    <img src="app/src/main/res/drawable/location_not_allowed_ask_everytime.png" alt="location_not_allowed_ask_everytime" width="300"/>
-    <img src="app/src/main/res/drawable/location_ask_everytime.png" alt="location_ask_everytime" width="300"/>
-    <img src="app/src/main/res/drawable/location_permission_request.png" alt="location_permission_request" width="300"/>
+    <img src="app/src/main/res/drawable/location_not_allowed_ask_everytime.png" alt="location_not_allowed_ask_everytime" width="200"/>
+    <img src="app/src/main/res/drawable/location_ask_everytime.png" alt="location_ask_everytime" width="200"/>
+    <img src="app/src/main/res/drawable/location_permission_request.png" alt="location_permission_request" width="200"/>
 </div>
 
 
 ### 4. Location Permission allow
 <div style="display: inline-block;">
-    <img src="app/src/main/res/drawable/location_precise.png" alt="location_precise" width="300"/>
-    <img src="app/src/main/res/drawable/location_allowed.png" alt="location_allowed" width="300"/>
-    <img src="app/src/main/res/drawable/location_allowed_while_using_app.png" alt="location_allowed_while_using_app" width="300"/>
+    <img src="app/src/main/res/drawable/location_precise.png" alt="location_precise" width="200"/>
+    <img src="app/src/main/res/drawable/location_allowed.png" alt="location_allowed" width="200"/>
+    <img src="app/src/main/res/drawable/location_allowed_while_using_app.png" alt="location_allowed_while_using_app" width="200"/>
 </div>
